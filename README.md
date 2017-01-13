@@ -4,8 +4,7 @@
 
 > Unofficial features
 >> 1. Loading style when components is attached to DOM;
->> 2. Appending style to the <head/> of component element's owner document(e.g. iframe);
->>
+>> 2. Appending style to the &lt;head/&gt; of component element's owner document(e.g. iframe);
 >> Note, they are default behavior until now, and dependent on this custom [style-loader](https://github.com/flytreeleft/style-loader.git);
 
 It allows you to write your components in this format:
